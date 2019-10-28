@@ -8,3 +8,4 @@ Completed Labs for John Q. Student
 4. [Samson Schirmer Lab 04](https://github.com/sas695/IDD-Fa19-Lab4)
 5. [Samson Schirmer Lab 05](https://github.com/sas695/IDD-Fa19-Lab5)
 6. [Samson Schirmer Lab 06](https://github.com/sas695/IDD-Fa19-Lab6)
+7. [Samson Schirmer Lab 07](https://github.com/sas695/IDD-Fa19-Lab7)
